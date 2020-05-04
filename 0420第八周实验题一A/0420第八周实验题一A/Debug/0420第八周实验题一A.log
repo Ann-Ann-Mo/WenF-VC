@@ -1,0 +1,8 @@
+﻿  Mydlg0.cpp
+  0420第八周实验题一AView.cpp
+d:\vs c++\0420第八周实验题一a\0420第八周实验题一a\0420第八周实验题一aview.cpp(92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs c++\0420第八周实验题一a\0420第八周实验题一a\0420第八周实验题一aview.cpp(93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\vs c++\0420第八周实验题一a\0420第八周实验题一a\0420第八周实验题一aview.cpp(94): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  0420第八周实验题一A.vcxproj -> D:\VS C++\0420第八周实验题一A\Debug\0420第八周实验题一A.exe
+  0420第八周实验题一A.vcxproj -> D:\VS C++\0420第八周实验题一A\Debug\0420第八周实验题一A.pdb (Partial PDB)
